@@ -787,8 +787,8 @@ font-size: 26px;
     font-size: 14px;
 }
 
- .map{
-width: 900px;
+#contact-details .map{
+width: 570px;
 height: 400px;
 }
 
